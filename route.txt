@@ -1,0 +1,5 @@
+*google*
+*youtube*
+*ggpht*
+*ytimg*
+*gstatic*

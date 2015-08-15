@@ -1,0 +1,11 @@
+{
+    "server":"192.168.1.10",
+    "server_port":443,
+	"local":"127.0.0.1",
+    "local_port":7788,
+    "password":"test",
+    "timeout":600,
+    "method":"aes-256-cfb",
+	
+	"list_file":"../../route.txt"
+}
